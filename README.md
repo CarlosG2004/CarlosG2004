@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Carlos Gabriel tenho 21 anos, moro em Cachoeirinha no Rio grande do sul. Faço graudação de ADS, finalizo em 2026. Amo tecnología e busco expressar minhas ideais em códigos.</p>
+<p align="center">Estou em busca de oportunidades de TI.Procuro me qualificar e desenvolver Ideias em código</p>
 
 ###
 
