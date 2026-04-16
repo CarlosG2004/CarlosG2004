@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Estou em busca de oportunidades de TI.Procuro me qualificar e desenvolver Ideias em código</p>
+<p align="center">Estou em busca de oportunidades de TI.<br> Procuro me qualificar e desenvolver Ideias em código</p>
 
 ###
 
