@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Trasnformando ideias em código<br>📚 ADS - FAQ-QI<br>👨‍💻 21 Anos<br>❤️ Dev em desenvolvimento</p>
+<p align="left">✨Trasnformando ideias em código<br>📚 ADS - FAQ-QI<br>👨‍💻 21 Anos<br>❤️ Dev Fullstack</p>
 
 ###
 
