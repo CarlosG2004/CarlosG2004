@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">Estou em busca de oportunidades de TI.<br> Procuro me qualificar e desenvolver Ideias em código.</p>
+<p align="center">Minha jornada na tecnologia é guiada por uma curiosidade inquieta e pelo prazer de ver uma ideia ganhar vida através do código.<br> Como desenvolvedor em formação, encontrei no ecossistema do HTML, CSS e JavaScript estudando backend como python e seus frameworks como Django,flask<br> o meu campo de experimentação, onde cada projeto é uma oportunidade de construir algo novo e funcional.<br>
+Para mim, programar vai além de escrever linhas de comando; é um exercício constante de resolução de problemas. Encaro cada bug ou desafio técnico não como um obstáculo, mas como uma lição valiosa. Acredito que a tecnologia exige essa resiliência: a capacidade de aprender com cada erro e de buscar incessantemente entender como as ferramentas funcionam "por baixo do capô</p>
 
 ###
 
