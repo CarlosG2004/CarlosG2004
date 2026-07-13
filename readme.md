@@ -1,6 +1,6 @@
 ## Olá eu sou a Carlos Gehlen, estudante de ADS apaixonado por tecnologia!
 
-<p>estudante de ADS<br>
+<p>estudante de ADS em busca constante por oportunidade<br>
 21 anos <br>
 apaixonado por codigo<br>
 </p>
