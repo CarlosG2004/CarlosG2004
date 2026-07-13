@@ -1,7 +1,6 @@
 ## Olá eu sou a Carlos Gehlen, estudante de ADS apaixonado por tecnologia!
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CarlosG2004)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CarlosG2004&rank_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=CarlosG2004&rank_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
