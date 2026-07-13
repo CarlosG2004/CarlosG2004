@@ -1,5 +1,10 @@
 ## Olá eu sou a Carlos Gehlen, estudante de ADS apaixonado por tecnologia!
 
+<p>estudante de ADS<br>
+21 anos <br>
+apaixonado por codigo<br>
+</p>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CarlosG2004&rank_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=CarlosG2004&rank_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 <div style="display: inline_block"><br>
