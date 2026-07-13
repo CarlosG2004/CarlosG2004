@@ -1,5 +1,6 @@
 ## Olá eu sou a Carlos Gehlen, estudante de ADS apaixonado por tecnologia!
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CarlosG2004)](https://github.com/stats-organization/github-stats-extended)
 
 
 <div style="display: inline_block"><br>
